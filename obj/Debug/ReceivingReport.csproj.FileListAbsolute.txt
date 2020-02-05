@@ -1,0 +1,69 @@
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\obj\Debug\ReceivingReport.Properties.Resources.resources
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\obj\Debug\ReceivingReport.ReceiveReport.resources
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\obj\Debug\ReceivingReport.csproj.GenerateResource.Cache
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\bin\Debug\ReceivingReport.exe.config
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\bin\Debug\ReceivingReport.exe
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\bin\Debug\ReceivingReport.pdb
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\bin\Debug\DLRUtilityCollection.dll
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\bin\Debug\OleDBDataManager.dll
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\bin\Debug\DLRUtilityCollection.pdb
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\bin\Debug\OleDBDataManager.pdb
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\obj\Debug\ReceivingReport.exe
+D:\Work\Visual Studio 2008\Projects\ReceivingReport\ReceivingReport\obj\Debug\ReceivingReport.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\bin\Debug\ReceivingReport.exe.config
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\obj\Debug\ReceivingReport.exe
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\obj\Debug\ReceivingReport.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\bin\Debug\ReceivingReport.exe
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\bin\Debug\ReceivingReport.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\obj\Debug\ReceivingReport.Properties.Resources.resources
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\obj\Debug\ReceivingReport.ReceiveReport.resources
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\obj\Debug\ReceivingReport.csproj.GenerateResource.Cache
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\bin\Debug\OleDBDataManager.dll
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\bin\Debug\OleDBDataManager.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\bin\Debug\OleDBDataManager.dll.config
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\obj\Debug\ReceivingReport.csproj.CoreCompileInputs.cache
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\obj\Debug\ReceivingReport.csprojResolveAssemblyReference.cache
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\bin\Debug\LogManager.dll
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport\ReceivingReport\bin\Debug\LogManager.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\ReceivingReport.exe.config
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\ReceivingReport.exe
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\ReceivingReport.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\OleDBDataManager.dll
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\OleDBDataManager.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\OleDBDataManager.dll.config
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\obj\Debug\ReceivingReport.Properties.Resources.resources
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\obj\Debug\ReceivingReport.ReceiveReport.resources
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\obj\Debug\ReceivingReport.csproj.GenerateResource.Cache
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\obj\Debug\ReceivingReport.csproj.CoreCompileInputs.cache
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\obj\Debug\ReceivingReport.exe
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\obj\Debug\ReceivingReport.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\DocumentFormat.OpenXml.dll
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\KeyMaster.dll
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\SpreadsheetLight.dll
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\DocumentFormat.OpenXml.xml
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\KeyMaster.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\SpreadsheetLight.xml
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\LogManager.dll
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\bin\Debug\LogManager.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReportXLSX\ReceivingReport\obj\Debug\ReceivingReport.csprojResolveAssemblyReference.cache
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\bin\Debug\ReceivingReport.exe.config
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\bin\Debug\ReceivingReport.exe
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\bin\Debug\ReceivingReport.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\bin\Debug\DocumentFormat.OpenXml.dll
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\bin\Debug\OleDBDataManager.dll
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\bin\Debug\SpreadsheetLight.dll
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\bin\Debug\DocumentFormat.OpenXml.xml
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\bin\Debug\OleDBDataManager.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\bin\Debug\OleDBDataManager.dll.config
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\bin\Debug\SpreadsheetLight.xml
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\obj\Debug\ReceivingReport.Properties.Resources.resources
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\obj\Debug\ReceivingReport.ReceiveReport.resources
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\obj\Debug\ReceivingReport.csproj.GenerateResource.Cache
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\obj\Debug\ReceivingReport.exe
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\obj\Debug\ReceivingReport.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\obj\Debug\ReceivingReport.csprojAssemblyReference.cache
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\obj\Debug\ReceivingReport.csproj.CoreCompileInputs.cache
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\bin\Debug\DTUtilities.dll
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\bin\Debug\DTUtilities.pdb
+\\Lapis\h_purchasing$\Purchasing\PMM IS data\HEMM Apps\SourceCode\ReceivingReport (GH)\ReceivingReport\obj\Debug\ReceivingReport.csproj.CopyComplete
